@@ -2,7 +2,7 @@
 
 ## Goals
 
-Example of REST API vue.js client app (use in conjunction with REST API server:[Omo-server](https://github.com/edwards33/omo-server) ).
+Example of REST API vue.js client app (use in conjunction with REST API server: [Omo-server](https://github.com/edwards33/omo-server) ).
 Loads simple registration form.
 
 ## Libraries and Frameworks used
