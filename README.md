@@ -1,4 +1,15 @@
-# covomo-client
+# omo-client
+
+## Goals
+
+Example of REST API vue.js client app (use in conjunction with REST API server:[Omo-server](https://github.com/edwards33/omo-server) ).
+Loads simple registration form.
+
+## Libraries and Frameworks used
+
+* [Vue.js](https://vuejs.org)
+* [Vuex](https://vuex.vuejs.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Project setup
 ```
